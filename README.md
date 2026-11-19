@@ -1,6 +1,6 @@
 # Caso-Ficticio-Mercedes-Benz
 👋 Hola, soy Luz Maria Ruiz
-Analista de datos en formación · Les muestro cómo convertir datos en reportes claros que ayuden a tomar decisiones.
+Analista de datos · Les muestro cómo convertir datos en reportes claros que ayuden a tomar decisiones.
 📍 GUATEMALA, · GUATEMALA lucita.ruizcarranza@gmail.com · 🔗 https://www.linkedin.com/in/bit.ly/luz-maria-ruiz
 
 ---
@@ -18,7 +18,8 @@ Próximo proyecto	Descripción en una línea	Herramientas	Demo · Código
 > Los casos de clase usan datos ficticios y no son material oficial de ninguna marca.
 ---
 🎓 Formación
-Grow Up Data Analytics
+Grow Up Data Analytics @Julio Solano
+
 (Agrega aquí otros cursos o certificaciones.)
 ---
 📫 Contactom
