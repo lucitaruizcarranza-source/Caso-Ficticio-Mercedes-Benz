@@ -18,7 +18,8 @@ Próximo proyecto	Descripción en una línea	Herramientas	Demo · Código
 > Los casos de clase usan datos ficticios y no son material oficial de ninguna marca.
 ---
 🎓 Formación
-Grow Up Data Analytics @Julio Solano
+Grow Up Data Analytics
+@Julio Solano
 
 (Agrega aquí otros cursos o certificaciones.)
 ---
