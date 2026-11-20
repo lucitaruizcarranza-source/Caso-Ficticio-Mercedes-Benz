@@ -8,7 +8,7 @@ Analista de datos · Les muestro cómo convertir datos en reportes claros que ay
 Análisis y modelado: Excel, Power Query, DAX
 Visualización: Power BI, HTML + JavaScript (Chart.js)
 Control de versiones: Git y GitHub
-(Borra o agrega lo que corresponda a lo que realmente manejas.)
+Claude version gratuita
 ---
 📁 Mi maletín de proyectos
 Proyecto	Descripción	Herramientas	Enlaces
