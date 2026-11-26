@@ -23,5 +23,5 @@ Grow Up Data Analytics
 
 (Agrega aquí otros cursos o certificaciones.)
 ---
-📫 Contactom
+📫 Contacto
 Si quieres conversar sobre datos, proyectos u oportunidades, escríbeme por https://www.linkedin.com/in/bit.ly/luz-maria-ruiz o  lucita.ruizcarranza@gmail.com
